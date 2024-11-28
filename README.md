@@ -17,7 +17,7 @@ A simple and efficient **Currency Converter** application that allows users to c
 ## Installation 💻
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/currency-converter.git
+   git clone https://github.com/Justine-abc/currency-converter.git
    ```
 2. Navigate to the project directory:
    ```bash
